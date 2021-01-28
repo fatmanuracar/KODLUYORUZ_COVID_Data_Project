@@ -1,0 +1,51 @@
+﻿ID,COUNTRYID,STATENAME,STATECODE,AREA,POPULATION,CAPITAL
+1,209,Alabama,AL,52.419 sq mi (135.765 km2),"4,903,185",Montgomery
+2,209,Alaska,AK,663.267 sq mi (1.717.854 km2),"731,545",Juneau
+3,209,Arizona,AZ,113.998 sq mi (295.254 km2),"7,278,717",Phoenix
+4,209,Arkansas,AR,52.897 sq mi (137.002 km2),"3,017,804",Little Rock
+5,209,Batı Virginia,WV,24.230 sq mi (62.755 km2),"1,792,147",Charleston
+6,209,Colorado,CO,104.185 sq mi (269.837 km2),"5,758,736",Denver
+7,209,Connecticut,CT,5.543 sq mi (14.356 km2),"3,565,287",Hartford
+8,209,Delaware,DE,2.491 sq mi (6.452 km2),"973,764",Dover
+9,209,Florida,FL,65.755 sq mi (170.304 km2),"21,477,737",Tallahassee
+10,209,Georgia,GA,59.425 sq mi (153.909 km2),"10,617,423",Atlanta
+11,209,Güney Dakota,SD,77.184 sq mi (199.905 km2),"884,659",Pierre
+12,209,Güney Karolina,SC,32.020 sq mi (82.931 km2),"5,148,714",Columbia
+13,209,Hawaii,HI,10.931 sq mi (28.311 km2),"1,415,872",Honolulu
+14,209,Idaho,ID,83.642 sq mi (216.632 km2),"1,787,065",Boise
+15,209,Illinois,IL,54.826 sq mi (141.998 km2),"12,671,821",Springfield
+16,209,Indiana,IN,36.418 sq mi (94.321 km2),"6,732,219",Indianapolis
+17,209,Iowa,IA,56.272 sq mi (145.743 km2),"3,155,070",Des Moines
+18,209,Kaliforniya,CA,163.700 sq mi (423.970 km2),"39,512,223",Sacramento
+19,209,Kansas,KS,82.277 sq mi (213.096 km2),"2,913,314",Topeka
+20,209,Kentucky,KY,40.409 sq mi (104.659 km2),"4,467,673",Frankfort
+21,209,Kuzey Dakota,ND,70.762 sq mi (183.272 km2),"762,062",Bismarck
+22,209,Kuzey Karolina,NC,53.865 sq mi (139.509 km2),"10,488,084",Raleigh
+23,209,Louisiana,LA,52.271 sq mi (135.382 km2),"4,648,794",Baton Rouge
+24,209,Maine,ME,35.385 sq mi (91.646 km2),"1,344,212",Augusta
+25,209,Maryland,MD,12.407 sq mi (32.133 km2),"6,045,680",Annapolis
+26,209,Massachusetts,MA,10.554 sq mi (27.336 km2),"6,892,503",Boston
+27,209,Michigan,MI,97.990 sq mi (253.793 km2),"9,986,857",Lansing
+28,209,Minnesota,MN,86.943 sq mi (225.181 km2),"5,639,632",Saint Paul
+29,209,Mississippi,MS,48.434 sq mi (125.443 km2),"2,976,149",Jackson
+30,209,Missouri,MO,69.704 sq mi (180.533 km2),"6,137,428",Jefferson City
+31,209,Montana,MT,147.165 sq mi (381.156 km2),"1,068,778",Helena
+32,209,Nebraska,NE,77.420 sq mi (200.520 km2),"1,934,408",Lincoln
+33,209,Nevada,NV,110.567 sq mi (286.367 km2),"3,080,156",Carson City
+34,209,New Hampshire,NH,9.350 sq mi (24.217 km2),"1,359,711",Concord
+35,209,New Jersey,NJ,8.729 sq mi (22.608 km2),"8,882,190",Trenton
+36,209,New Mexico,NM,121.697 sq mi (315.194 km2),"2,096,829",Santa Fe
+37,209,New York,NY,54.556 sq mi (141.299 km2),"19,453,561",Albany
+38,209,Ohio,OH,44.825 sq mi (116.096 km2),"11,689,100",Columbus
+39,209,Oklahoma,OK,69.960 sq mi (181.195 km2),"3,956,971",Oklahoma City
+40,209,Oregon,OR,98.466 sq mi (255.026 km2),"4,217,737",Salem
+41,209,Pensilvanya,PA,46.055 sq mi (119.283 km2),"12,801,989",Harrisburg
+42,209,Rhode Island,RI,1.210 sq mi (3.140 km2),"1,059,361",Providence
+43,209,Teksas,TX,268.820 sq mi (696.241 km2),"28,995,881",Austin
+44,209,Tennessee,TN,42.181 sq mi (109.247 km2),"6,829,174",Nashville
+45,209,Utah,UT,84.899 sq mi (219.887 km2),"3,205,958",Salt Lake City
+46,209,Vermont,VT,9.623 sq mi (24.923 km2),"623,989",Montpelier
+47,209,Virginia,VA,42.774 sq mi (110.785 km2),"8,535,519",Richmond
+48,209,Washington,WA,71.362 sq mi (184.827 km2),"7,614,893",Olympia
+49,209,Wisconsin,WI,65.498 sq mi (169.639 km2),"5,822,434",Madison
+50,209,Wyoming,WY,97.818 sq mi (253.348 km2),"578,759",Cheyenne
